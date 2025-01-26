@@ -1,2 +1,2 @@
 <h1> Sistema de registros </h1>
-- Aprendiendo git.
+- Estado de proyecto: En progreso.
